@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:ital,wght@1,500&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+  text-align: center; /* Centra el contenido horizontalmente */
+  display: flex; /* Utiliza un contenedor flexible */
+  flex-direction: column; /* Coloca el contenido en una columna vertical */
+  justify-content: center; /* Centra el contenido verticalmente */
+  height: 539px; /* Establece la altura del contenedor al 100% del viewport */
+  background-color: aqua;
+}
